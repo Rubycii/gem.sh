@@ -27,3 +27,4 @@ For gem maintainers with their own domain, gem.sh might be able to offer a solut
 We've open-sourced the code for gem.sh. We welcome contributors from the Ruby community to join us on this journey of building a documentation future that benefits everyone!
 
 Please feel free to reach out if you have any ideas or would like to contribute to this project. Together, let's shape the future of Ruby gem documentation!
+
